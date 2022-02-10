@@ -1,2 +1,2 @@
 # Machine-Learning
-Implemented some machine learning models using python
+Implementing and executing machine learning models using python
